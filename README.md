@@ -1,9 +1,9 @@
 # Quick Commerce Performance Analysis — India
 
-![Python](https://img.shields.io/badge/Python-3.10-blue)
-![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-orange)
-![Excel](https://img.shields.io/badge/Excel-Dashboard-green)
-![Matplotlib](https://img.shields.io/badge/Visualization-Matplotlib%20%7C%20Seaborn-yellow)
+[Python](https://img.shields.io/badge/Python-3.10-blue)
+[Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-orange)
+[Excel](https://img.shields.io/badge/Excel-Dashboard-green)
+[Matplotlib](https://img.shields.io/badge/Visualization-Matplotlib%20%7C%20Seaborn-yellow)
 
 **Tools:** Python, Pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebook, Excel, PivotTables  
 **Dataset:** 1,000,000 Orders · 8 Platforms · 13 Features
@@ -66,13 +66,13 @@ This repo includes both:
 ## Charts
 
 ### Univariate EDA
-![Univariate EDA](images/univariate_eda.png)
+![Univariate EDA](univariate_eda.png)
 
 ### Bivariate EDA
-![Bivariate EDA](images/bivariate_eda.png)
+![Bivariate EDA](bivariate_eda.png)
 
 ### Excel Insights Dashboard
-![Insights Dashboard](images/insights_dashboard.png)
+![Insights Dashboard](insights_dashboard.png)
 
 ---
 
@@ -82,9 +82,9 @@ This repo includes both:
 |------|-------------|
 | `quick_commerce_eda.ipynb` | Full EDA notebook with code and outputs |
 | `QuickCommerce_Executive_Dashboard.xlsx` | Interactive Excel dashboard with slicers |
-| `images/univariate_eda.png` | Distribution plots |
-| `images/bivariate_eda.png` | Correlation and comparison plots |
-| `images/insights_dashboard.png` | Final Excel dashboard screenshot |
+| `univariate_eda.png` | Distribution plots |
+| `bivariate_eda.png` | Correlation and comparison plots |
+| `insights_dashboard.png` | Final Excel dashboard screenshot |
 
 ---
 
