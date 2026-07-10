@@ -1,9 +1,9 @@
 # Quick Commerce Performance Analysis — India
 
-[Python](https://img.shields.io/badge/Python-3.10-blue)
-[Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-orange)
-[Excel](https://img.shields.io/badge/Excel-Dashboard-green)
-[Matplotlib](https://img.shields.io/badge/Visualization-Matplotlib%20%7C%20Seaborn-yellow)
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-orange)
+![Excel](https://img.shields.io/badge/Excel-Dashboard-green)
+![Visualization](https://img.shields.io/badge/Visualization-Matplotlib%20%7C%20Seaborn-yellow)
 
 **Tools:** Python, Pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebook, Excel, PivotTables  
 **Dataset:** 1,000,000 Orders · 8 Platforms · 13 Features
@@ -17,7 +17,7 @@ Exploratory Data Analysis on 1 million quick commerce orders across 8 Indian pla
 Analyzed delivery speed, customer satisfaction, order value, and platform performance to identify what actually drives ratings. 
 
 This repo includes both: 
-1.  **Python EDA** - Deep statistical analysis
+1.  **Python EDA** - Deep statistical analysis with Jupyter Notebook
 2.  **Excel Executive Dashboard** - Interactive dashboard for business stakeholders
 
 ---
@@ -63,28 +63,31 @@ This repo includes both:
 
 ---
 
-## Charts
+## Visuals
 
-### Univariate EDA
+### 1. Univariate EDA
+Distribution of key metrics across platforms
 ![Univariate EDA](univariate_eda.png)
 
-### Bivariate EDA
+### 2. Bivariate EDA
+Correlation and platform comparison analysis
 ![Bivariate EDA](bivariate_eda.png)
 
-### Excel Insights Dashboard
+### 3. Excel Executive Dashboard
+Interactive dashboard with slicers and heatmap
 ![Insights Dashboard](insights_dashboard.png)
 
 ---
 
-## Files
+## Repository Files
 
 | File | Description |
 |------|-------------|
 | `quick_commerce_eda.ipynb` | Full EDA notebook with code and outputs |
-| `QuickCommerce_Executive_Dashboard.xlsx` | Interactive Excel dashboard with slicers |
+| `QuickCommerce_Executive_Dashboard.xlsx` | Interactive Excel dashboard with slicers and charts |
 | `univariate_eda.png` | Distribution plots |
 | `bivariate_eda.png` | Correlation and comparison plots |
-| `insights_dashboard.png` | Final Excel dashboard screenshot |
+| `insights_dashboard.png` | Screenshot of Excel dashboard |
 
 ---
 
@@ -92,4 +95,4 @@ This repo includes both:
 
 1. Clone the repo 
    ```bash
-   git clone https://github.com/ankita-halabanur/quick-commerce-performance-analysis-india.git
+   git clone https://github.com/ankita-halabanur/quick-commerce-performance-analysis.git
