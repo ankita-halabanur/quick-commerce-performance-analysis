@@ -38,4 +38,58 @@ This repo includes both:
 | **Speed ≠ Satisfaction** | Pearson r = 0.042 — near-zero correlation between delivery time and rating |
 | **Fastest Platform** | Zepto (~9.5 min avg delivery) — but not highest rated |
 | **Highest Rated** | Blinkit (avg 3.53/5) |
-| **Highest Order
+| **Highest Order Value** | Swiggy Instamart (₹646 avg) |
+| **Discounts Don't Help** | No meaningful improvement in customer ratings with discounts |
+| **Slowest Cities** | Haridwar (27.5 min avg), Jaipur (20.5 min avg) |
+
+---
+
+## Key Skills Demonstrated
+
+- Data Cleaning & Aggregation with Pandas on 1M+ rows
+- Exploratory Data Analysis & Statistical Correlation
+- Data Visualization with Matplotlib & Seaborn  
+- Excel Dashboarding: PivotTables, Slicers, Conditional Formatting, Heatmaps, Combo Charts
+- Business Insight Communication for executive decision-making
+
+---
+
+## Analysis Structure
+
+- **Univariate EDA** — distributions of delivery time, order value, ratings across platforms
+- **Bivariate EDA** — correlation analysis, platform vs. rating, speed vs. satisfaction
+- **Excel Dashboard** — interactive view with filters for City and Company
+- **Insights Dashboard** — consolidated visual summary of key findings
+
+---
+
+## Charts
+
+### Univariate EDA
+![Univariate EDA](images/univariate_eda.png)
+
+### Bivariate EDA
+![Bivariate EDA](images/bivariate_eda.png)
+
+### Excel Insights Dashboard
+![Insights Dashboard](images/insights_dashboard.png)
+
+---
+
+## Files
+
+| File | Description |
+|------|-------------|
+| `quick_commerce_eda.ipynb` | Full EDA notebook with code and outputs |
+| `QuickCommerce_Executive_Dashboard.xlsx` | Interactive Excel dashboard with slicers |
+| `images/univariate_eda.png` | Distribution plots |
+| `images/bivariate_eda.png` | Correlation and comparison plots |
+| `images/insights_dashboard.png` | Final Excel dashboard screenshot |
+
+---
+
+## How to Use
+
+1. Clone the repo 
+   ```bash
+   git clone https://github.com/ankita-halabanur/quick-commerce-performance-analysis-india.git
